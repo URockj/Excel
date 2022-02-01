@@ -1,2 +1,2 @@
 ## Excel
-:bookmark_tabs:Simple [clone](urockj.github.io/excel/) of [Google Spreadsheet](https://www.google.ru/intl/ru/sheets/about/):bookmark_tabs:
+:bookmark_tabs:Simple [clone](https://urockj.github.io/Excel/) of [Google Spreadsheet](https://www.google.ru/intl/ru/sheets/about/):bookmark_tabs:
