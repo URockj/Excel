@@ -1,4 +1,4 @@
 ## Excel
 ```
-Simple clone google spreadsheet
+Simple clone of Google Spreadsheet
 ```
